@@ -1,1 +1,1 @@
-# Deep-Survival-Analysis-of-LungAdenocarcinoma
+# Deep Survival Analysis of Lung Adenocarcinoma
